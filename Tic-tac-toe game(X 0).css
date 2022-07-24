@@ -1,0 +1,50 @@
+* {
+    margin: auto;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(231, 225, 217);
+   
+}
+th, td {
+    border: 3px groove rgba(0, 0, 0, 0.36);
+    background-color: rgb(145, 208, 228);
+    
+}
+td {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+
+table {
+    font-size: 70px;
+    margin: auto;
+    text-align: center;
+    font-weight:bold;
+}
+p {
+    font-size: 50px;
+}
+
+#player1 {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+#player2 {
+    position: absolute;
+    margin-top: 9%;
+    margin-left: 80%;
+}
+
+#player1Sign {
+    color: rgb(227,53,158);
+    font-weight:bold;
+}
+
+#player2Sign {
+    color: rgb(243, 225, 94);
+    font-weight:bold;
+}
