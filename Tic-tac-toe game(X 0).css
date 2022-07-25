@@ -48,3 +48,9 @@ p {
     color: rgb(243, 225, 94);
     font-weight:bold;
 }
+
+#btnPlayAgain {
+    font-size: 50px;
+    margin-top: 50px;
+
+}
